@@ -1,4 +1,17 @@
 ### Hi there 👋
+<h1 align="left">I'm Sivaraj S 👋</h1> 
+ I'm a Software Developer with a keen interest in the realms of Data Science and Machine Learning Operations Engineering. I'm actively refining my expertise in this domain, channeling over 300+ hours into comprehensive learning experiences. My mission is to leverage my BFSI experience and technical acumen to make impactful contributions to the evolving landscape of data-driven decision-making.
+ 
+I've crafted portfolio projects in these fields, leveraging hands-on experience to complement my theoretical knowledge.
+🔍 My journey involves a strong commitment to mastering the intricacies of Machine Learning, aiming to seamlessly integrate these skills into practical applications.
+
+### You can find my Portfolio project here: ###
+#### [Data Science and MLOps Portfolio](https://sivaraj-sankar.github.io/sivaraj.github.io/) ##
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img 
+
+
 
 <!--
 **Sivaraj-Sankar/Sivaraj-Sankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
