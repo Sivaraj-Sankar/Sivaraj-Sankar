@@ -2,7 +2,7 @@
 <h1 align="left">I'm Sivaraj S 👋</h1> 
  I'm a Software Developer with a keen interest in the realms of Data Science and Machine Learning Operations Engineering. I'm actively refining my expertise in this domain, channeling over 300+ hours into comprehensive learning experiences. My mission is to leverage my BFSI experience and technical acumen to make impactful contributions to the evolving landscape of data-driven decision-making.
  
-I've crafted portfolio projects in these fields, leveraging hands-on experience to complement my theoretical knowledge.
+ I've crafted portfolio projects in these fields, leveraging hands-on experience to complement my theoretical knowledge.
 🔍 My journey involves a strong commitment to mastering the intricacies of Machine Learning, aiming to seamlessly integrate these skills into practical applications.
 
 ### You can find my Portfolio project here: ###
